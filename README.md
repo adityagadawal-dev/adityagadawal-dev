@@ -25,7 +25,6 @@
 
 <p align="center">
   <img src=" ./profile/stats.svg" height="165" />
-  <img src="./profile/streak.svg" height="165" />
 </p>---
 
 🔥 Contribution Streak
