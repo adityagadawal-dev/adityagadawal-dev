@@ -31,7 +31,7 @@
 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityagadawal-dev&theme=tokyonight&hide_border=true" />
+  <img src=" ./profile/streak.svg" />
 </p>---
 
 🎯 My Goals
